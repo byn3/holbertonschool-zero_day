@@ -1,0 +1,3 @@
+What is Ubuntu?
+
+A Linux OS that is free and open source. Suited for servers and desktops. Sponsored by Canonical Ltd.

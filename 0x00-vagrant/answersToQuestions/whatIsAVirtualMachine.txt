@@ -1,0 +1,6 @@
+What is a virtual machine?
+
+A virtual machine is a virtual machine. Also known as a hypervisor if it's server related VMs.
+JK. It is like an emulator but for a whole computer. You can run different OS's, inception for computers, a computer in a computer, no hardware. VMs are flexible, great for remote work. Security- good to study how attacks work in a safe contained enviornment without endangering the real computer. Helpful to prevent against attacks. Useful for testing since you can just crash your VM instead of real computer. Good for data management and server management. 
+
+A virtual machine is basically a computer file that acts like a computer. Multiple VMs can run on a physical computer. VMs are very efficient in using the actual hardware. Cost saving. Reduces power and cooling and hardware and maintenance costs.
