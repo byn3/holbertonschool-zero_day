@@ -1,0 +1,4 @@
+What does the command uname do?
+
+It prints out Linux on the command line.
+Actual definition: it prints the name, version, and other details about the current machine and OS.
