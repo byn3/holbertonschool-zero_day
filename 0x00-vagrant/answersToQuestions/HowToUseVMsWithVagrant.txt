@@ -1,5 +1,5 @@
 How to use VMs with Vagrant?
 
-Vagrant init. Configure the vm.box variable in the Vagrantfile. Vagrant up. Vagrant SSH.
-Also https://www.vagrantup.com/intro/getting-started/.
-For my case I used Ubuntu Tasty 64
+Vagrant init. Configure the vm.box variable in the Vagrantfile. For my case I used ubuntu/tasty-64. Run Vagrant up. Vagrant SSH. And we gucci.
+https://www.vagrantup.com/intro/getting-started/.
+
