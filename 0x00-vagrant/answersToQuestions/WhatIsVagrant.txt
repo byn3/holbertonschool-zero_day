@@ -1,3 +1,5 @@
+What is Vagrant?
+
 Vagrant is the shell. During peer learning day we went all philosophical... "What IS Vagrant?"  
 We never came to a clear concise answer. 
 Vagrant is the connection. It manages the VMs. A tool for working with virtual environments.
