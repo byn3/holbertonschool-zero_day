@@ -8,6 +8,25 @@ At the end of this project you are expected to be able to explain to anyone, wit
 **What is the difference between a terminal and a shell?**  
 *Shell processes commands and returns output. Terminals run shell programs.*  
 
+
+
+What is Emacs
+Who is Richard Stallman
+The basic Emacs commands
+Opening and saving files
+What is a buffer and how to switch from one to the other
+Using the mark and the point to set the region
+Cutting and pasting lines and regions
+Searching forward and backward
+Invoking commands by name
+Undo
+Cancelling half-entered commands
+Quitting
+
+If installing Emacs is encoutering any issues, $ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install emacs
+
 **What is the shell prompt?**  
 *It is where the user types commands. The shell prompt is also known as the command line. On Vim it is when you type colon (:).*  
 
