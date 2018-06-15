@@ -11,18 +11,38 @@ At the end of this project you are expected to be able to explain to anyone, wit
 
 At the end of this project you are expected to be able to explain to anyone, without the help of Google:
 
-What is vi
-Who is Bill Joy
-The basic vi commands
-How to start and exit vi
-What are the command and insert modes, and how to switch from one to the other
-Edit text
-Cutting and pasting lines
-Searching forward and backward
-Undo
-Quitting
-Requirements
-Allowed editors: vi
+**What is vi?**  
+*.*  
+
+**Who is Bill Joy?**  
+*.*  
+
+**The basic vi commands?**  
+*.*  
+
+**How to start and exit vi?**  
+*.*  
+
+**What are the command and insert modes, and how to switch from one to the other?**  
+*.*  
+
+**Edit text?**  
+*.*  
+
+**Cutting and pasting lines?**  
+*.*  
+
+**Searching forward and backward?**  
+*.*  
+
+**Undo?**  
+*.*  
+
+**Quitting?**  
+*.*  
+
+**Requirements
+**Allowed editors: vi
 A README.md file, at the root of the folder of the project, describing what this project is about
 If the answer of one of the following questions needs the Return key, then use the string <Return>. Example: What is the command to write current contents to a file named in the original vi call? The answer should be exactly :w<Return>. Note that there is no space between w and <Return>
 Your file should only contain the command, and nothing else
