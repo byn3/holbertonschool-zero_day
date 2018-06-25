@@ -1,7 +1,0 @@
-What is Vagrant?
-
-Vagrant is the shell. During peer learning day we went all philosophical... "What IS Vagrant?"  
-We never came to a clear concise answer. 
-Vagrant is the connection. It manages the VMs. A tool for working with virtual environments.
-Vagrant is a command line tool. You need a base image or Box for the VM that vagrant will manage.
-vagrant box add! Vagrant::Config.run do |config| config.vm.box = "ubuntu/trusty64". vagrant init. vagrant up. vagrant ssh.
