@@ -1,7 +1,0 @@
-What is a zero-day?
-
-https://en.wikipedia.org/wiki/Zero-day_(computing%29
-Day zero is the day someone learns about the vulnerability in the system. 
-So the fewer days since day zero, the higher the chance no fix or mitigation has been developed. 
-And even after a fix is made, there is still a high probability of damage because not every user applied the fix.  
-SEVERE THREAT.
