@@ -8,25 +8,20 @@ At the end of this project you are expected to be able to explain to anyone, wit
 **What is the difference between a terminal and a shell?**  
 *Shell processes commands and returns output. Terminals run shell programs.*  
 
-
-
 **What is Emacs?**  
-*.*  
+*A text editor. It is the oldest free open source project still under development.*  
 
 **Who is Richard Stallman?**  
-*.*  
-
-**The basic Emacs commands?**  
-*.*  
+*He wrote the most popular version of emacs (GNU Emacs).*  
 
 **Opening and saving files?**  
-*.*  
+*Type emacs <FILENAME> in the command line and that should open the file. To open a new file is ctrl-x ctrl-f. To save a current file is ctrl-x ctrl-s.*  
 
 **What is a buffer and how to switch from one to the other?**  
-*.*  
+*It is also known as a workspace or a document in other editors. It is the buffer. You do not edit a file. You edit a buffer to it and when you save, then the changes are made and moved over. ctrl-x ctrl-b to get a list of buffers. ctrl-x b to switch buffers. Lisp buffer objects. *  
 
 **Using the mark and the point to set the region?**  
-*.*  
+*ctrl-space to set mark. ctrl-x ctrl-x to set mark at point and activate it and them ove to where mark used to be. To jump to a saved mark, ctrl-u ctrl-space.*  
 
 **Cutting and pasting lines and regions?**  
 *.*  
