@@ -1,3 +1,0 @@
-Who wrote Vagrant?
-
-Mitchell Hashimoto
