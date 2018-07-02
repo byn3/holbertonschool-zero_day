@@ -44,6 +44,6 @@ At the end of this project you are expected to be able to explain to anyone, wit
 * Script 4 - What is the command to search forward?  
 * Script 5 - What is the command to undo?  
 * Script 6 - What is the command to quit Emacs?  
-* Script 7 - What is the command to play Tetris inside Emacs?  
-* Script 8 - What is the command to talk to your doctor?  
+* Script 100 - What is the command to play Tetris inside Emacs?  
+* Script 101 - What is the command to talk to your doctor?  
 
