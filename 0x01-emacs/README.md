@@ -37,13 +37,13 @@ At the end of this project you are expected to be able to explain to anyone, wit
 
 
 ## Each scripts and their output  
-*Script 0 - What is the command to open a file from within Emacs?  
-*Script 1 - What is the command to save a file?  
-*Script 2 - What is the command to cut an entire line?  
-*Script 3 - What is the command to paste?  
-*Script 4 - What is the command to search forward?  
-*Script 5 - What is the command to undo?  
-*Script 6 - What is the command to quit Emacs?  
-*Script 7 - What is the command to play Tetris inside Emacs?  
-*Script 8 - What is the command to talk to your doctor?  
+* Script 0 - What is the command to open a file from within Emacs?  
+* Script 1 - What is the command to save a file?  
+* Script 2 - What is the command to cut an entire line?  
+* Script 3 - What is the command to paste?  
+* Script 4 - What is the command to search forward?  
+* Script 5 - What is the command to undo?  
+* Script 6 - What is the command to quit Emacs?  
+* Script 7 - What is the command to play Tetris inside Emacs?  
+* Script 8 - What is the command to talk to your doctor?  
 
