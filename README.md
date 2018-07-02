@@ -7,4 +7,4 @@ There are questions I answered in each README, questions vary:
 Vagrant folder answers some very basic concept questions and some security related questions.  
 Emacs folder has Richard Stallman info and basic commands.  
 Vi has Bill Joy and basic commands. I use Vim.  
-Git folder has basic commands and branching and merging.
+Git folder is located in the my_first_repository repo.
